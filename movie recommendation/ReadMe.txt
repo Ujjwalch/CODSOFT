@@ -1,6 +1,6 @@
 #About:
 -------
-This is a movie recommendation program written in python language.
+This is a recommendation program written in python language.
 This program uses the data present in the csv files that is provided along with it. 
 
 #LIBRARIES REQUIREMENTS:
